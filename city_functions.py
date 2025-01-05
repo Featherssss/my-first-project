@@ -5,3 +5,5 @@ def get_info(city,country,population=0):
     else:
         city_info = f"{city},{country}"
     return city_info.title()
+
+greet = "hello"
